@@ -1,0 +1,8 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\bin\x64\Debug\toggletext.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\bin\x64\Debug\toggletext.pdb
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\bin\x64\Debug\toggletext.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\obj\x64\Debug\toggletext.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\obj\x64\Debug\toggletext.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\obj\x64\Debug\toggletext.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\obj\x64\Debug\toggletext.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\toggletext\obj\x64\Debug\toggletext.pdb
